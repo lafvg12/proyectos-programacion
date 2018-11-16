@@ -18,3 +18,8 @@ crear un commit ("comitear")
 ```
 git commit -am "un mensaje"
 ```
+
+subir cambios a repositorio
+```
+git push -u origin master
+```
