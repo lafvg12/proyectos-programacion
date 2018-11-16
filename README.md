@@ -9,12 +9,12 @@ ver estado repositorio
 git status
 ``` 
 
-añadir archivos
+añadir archivos (anñadir al stage "staguear")
 ```
 git add "nombre archivo" # git add .
 ```
 
-crear un commit
+crear un commit ("comitear")
 ```
 git commit -am "un mensaje"
 ```
